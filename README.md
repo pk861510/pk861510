@@ -36,7 +36,7 @@ I am an analytical and detail-oriented Data Analyst with a focus on **Data Clean
 * **Tech:** MS Excel, Pivot Tables
 * **Description:** An interactive Excel dashboard tracking revenue, shipping delays, and profit margins for 10,000+ sales records.
 
-#### 4. [Django Blog Platform](https://github.com/pk861510/django-blog)
+#### 4. [Django Blog Platform](https://workpk861510.pythonanywhere.com)
 * **Tech:** Python, Django, SQL
 * **Description:** A fully functional blog application with database schema management and optimized backend logic.
 
