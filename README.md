@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there, I'm Prince Kumar! 👋
 
-<!--
-**pk861510/pk861510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Aspiring Data Analyst | Pune, India
 
-Here are some ideas to get you started:
+I am an analytical and detail-oriented Data Analyst with a focus on **Data Cleaning, Visualization, and Business Intelligence**. I love translating raw data into actionable insights using SQL, Python, and Dashboarding tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **Advanced SQL & Power BI Projects**
+- 👯 I’m looking to collaborate on **Data Analysis projects**
+- 💬 Ask me about **Python, Pandas, Tableau,Power BI and SQL**
+- 📫 How to reach me: **pk861510@gmail.com**
+
+---
+
+### 🛠️ Languages and Tools
+
+| **Category** | **Skills** |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) |
+| **Data Analysis** | Pandas, NumPy, Matplotlib, Seaborn |
+| **Visualization** | ![Power Bi](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) MS Excel |
+| **Web Dev** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) |
+
+---
+
+### 📊 Key Projects
+
+#### 1. [Regional Sales Analysis Dashboard](https://github.com/pk861510)
+* **Tech:** Tableau, Calculated Fields, Parameters
+* **Description:** A dynamic dashboard visualizing sales performance across regions with user-selectable parameters to track profit and customer trends.
+
+#### 2. [Stack Overflow Survey Analysis](https://github.com/pk861510)
+* **Tech:** Python (Pandas, Matplotlib, Seaborn)
+* **Description:** Exploratory Data Analysis (EDA) on the 2019 Developer Survey to identify salary trends and popular technologies among developers.
+
+#### 3. [E-Commerce Sales Tracker](https://github.com/pk861510)
+* **Tech:** MS Excel, Pivot Tables
+* **Description:** An interactive Excel dashboard tracking revenue, shipping delays, and profit margins for 10,000+ sales records.
+
+#### 4. [Django Blog Platform](https://github.com/pk861510/django-blog)
+* **Tech:** Python, Django, SQL
+* **Description:** A fully functional blog application with database schema management and optimized backend logic.
+
+---
+
+### 🔗 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pk861510)
