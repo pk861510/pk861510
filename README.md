@@ -24,7 +24,7 @@ I am an analytical and detail-oriented Data Analyst with a focus on **Data Clean
 
 ### 📊 Key Projects
 
-#### 1. [Regional Sales Analysis Dashboard](https://public.tableau.com/app/profile/prince.kumar6824/vizzes)
+#### 1. [Regional Sales Analysis Dashboard]([https://public.tableau.com/app/profile/prince.kumar6824/vizzes](https://public.tableau.com/shared/S2S8NP4NC?:display_count=n&:origin=viz_share_link))
 * **Tech:** Tableau, Calculated Fields, Parameters
 * **Description:** A dynamic dashboard visualizing sales performance across regions with user-selectable parameters to track profit and customer trends.
 
